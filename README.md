@@ -1,1 +1,1 @@
-# pandas-challenge
+# School analysis
